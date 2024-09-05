@@ -23,9 +23,8 @@ This project demonstrates a neural network model built to recognize handwritten 
 You can install the required packages using pip:
 
 ```bash
-pip install tensorflow numpy opencv-python matplotlib 
-
-
+pip install tensorflow numpy opencv-python matplotlib
+```
 ## Training the Model
 
 The training script `model.py` includes data preprocessing, model building, training, and saving the model. I may in the future make this actually user friendly and split the model files into easier to understand and runnable componenets.
